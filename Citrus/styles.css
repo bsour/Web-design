@@ -251,7 +251,7 @@
   }
   
   .site-nav-link-active {
-    color: #2A2A2A;
+    color: #FF6600;
     text-decoration: none;
   }
   
@@ -320,7 +320,7 @@
   }
   
   .alert-error {
-    background-color: #CCCCCC;
+    background-color: #FC472E;
   }
   
   .alert img {
@@ -355,11 +355,11 @@
   }
   
   .button-primary {
-    background-color: #959595;
+    background-color: #00CF63;
   }
   
   .button-secondary {
-    background-color: #2A2A2A;
+    background-color:#FFAA00;
   }
   
   .button-full {
@@ -428,8 +428,9 @@
   input:focus,
   textarea:active,
   textarea:focus {
-    border: 1px solid #CCCCCC;
+    border: 1px solid #42A5F5;
     outline: none;
+    
   }
   
   textarea {
@@ -437,7 +438,7 @@
   }
   
   .input-error {
-    border-color: #F2F3F5;
+    border-color: #FC472E;
   }
   
   /* 6. Page Styles
